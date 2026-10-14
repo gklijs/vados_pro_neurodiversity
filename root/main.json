@@ -1,0 +1,14 @@
+{
+  "siteTitle": "PRO Neurodiversiteit",
+  "jsFiles": [],
+  "includeDefaultJs": null,
+  "cssFiles": [
+    "/css/main.min.css",
+    "https://cdn.jsdelivr.net/npm/@mdi/font@6.5.95/css/materialdesignicons.min.css"
+  ],
+  "includeDefaultCss": false,
+  "backgroundClass": null,
+  "navbarColor": null,
+  "language": "nl",
+  "footerContent": "<p>PRO Neurodiversiteit: progressief, eigenwijs en prikkelbewust.</p><p><small>Dit is een onofficieel initiatief van leden en geen officiële website van Progressief Nederland (PRO). Het logo van PRO wordt alleen gebruikt om aan te geven waar we bij horen.</small></p>"
+}
